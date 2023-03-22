@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">List View</string>
+    <string name="add_item">Add item</string>
+    <string name="enter_text">Enter text</string>
+    <string name="choose_here">Choose here</string>
+    <string name="next">Next</string>
+    <string name="search_here">Search here...</string>
+</resources>
